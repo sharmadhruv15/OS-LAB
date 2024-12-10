@@ -1,0 +1,2 @@
+The default behavior of the shell built-in “pwd” is equivalent to using “pwd -L”.
+The default behavior of the binary “/bin/pwd” is the same as using “pwd -P”
